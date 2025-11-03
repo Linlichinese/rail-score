@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rail-score"
-version = "1.0.0"
+version = "1.0.1"
 description = "Official Python SDK for RAIL Score API - Responsible AI evaluation and generation"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -41,8 +41,8 @@ dev = [
 [project.urls]
 Homepage = "https://responsibleailabs.ai"
 Documentation = "https://docs.responsibleailabs.ai"
-Repository = "https://github.com/responsibleailabs/rail-score-sdk-python"
-"Bug Tracker" = "https://github.com/responsibleailabs/rail-score-sdk-python/issues"
+Repository = "https://github.com/Responsible-AI-Labs/rail-score"
+"Bug Tracker" = "https://github.com/Responsible-AI-Labs/rail-score/issues"
 
 [tool.black]
 line-length = 100

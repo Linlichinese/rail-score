@@ -9,17 +9,17 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="rail-score",
-    version="1.0.0",
+    version="1.0.1",
     author="Responsible AI Labs",
     author_email="support@responsibleailabs.ai",
     description="Official Python SDK for RAIL Score API - Responsible AI evaluation and generation",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/responsibleailabs/rail-score-sdk-python",
+    url="https://github.com/Responsible-AI-Labs/rail-score",
     project_urls={
-        "Documentation": "https://docs.responsibleailabs.ai",
-        "Source": "https://github.com/responsibleailabs/rail-score-sdk-python",
-        "Bug Reports": "https://github.com/responsibleailabs/rail-score-sdk-python/issues",
+        "Documentation": "https://responsibleailabs.ai/docs",
+        "Source": "https://github.com/Responsible-AI-Labs/rail-score",
+        "Bug Reports": "https://github.com/Responsible-AI-Labs/rail-score/issues",
     },
     packages=find_packages(exclude=["tests", "examples"]),
     classifiers=[
