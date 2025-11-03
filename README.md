@@ -485,15 +485,15 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- **Documentation**: https://docs.responsibleailabs.ai
-- **Issues**: https://github.com/responsibleailabs/rail-score-sdk-python/issues
+- **Documentation**: https://responsibleailabs.ai/docs
+- **Issues**: https://github.com/Responsible-AI-Labs/rail-score/issues
 - **Email**: support@responsibleailabs.ai
 
 ---
 
 ## Changelog
 
-### 1.0.0 (2025-01-03)
+### 1.0.0 (2025-11)
 
 Initial release with support for:
 - All evaluation endpoints (basic, dimension, custom, weighted, detailed, advanced, batch, rag)
