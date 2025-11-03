@@ -578,7 +578,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find RAIL Score useful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Responsible-AI-Labs/rail-score&type=Date)](https://star-history.com/#Responsible-AI-Labs/rail-score&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Responsible-AI-Labs/rail-score&type=date&legend=top-left)](https://www.star-history.com/#Responsible-AI-Labs/rail-score&type=date&legend=top-left)
 
 ---
 
